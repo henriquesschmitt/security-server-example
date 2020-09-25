@@ -9,6 +9,6 @@ spring:
       ddl-auto: update
     database-platform: org.hibernate.dialect.PostgreSQLDialect
   datasource:
-    url: "jdbc:postgresql://localhost:5432/promotion"
+    url: "jdbc:postgresql://localhost:5432/test-database"
     username: postgres
     password: password
